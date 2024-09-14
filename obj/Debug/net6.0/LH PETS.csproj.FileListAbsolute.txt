@@ -1,0 +1,31 @@
+F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\appsettings.Development.json
+F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\appsettings.json
+F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.exe
+F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.deps.json
+F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.runtimeconfig.json
+F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.dll
+F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.pdb
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.csproj.AssemblyReference.cache
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.GeneratedMSBuildEditorConfig.editorconfig
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.AssemblyInfoInputs.cache
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.AssemblyInfo.cs
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.csproj.CoreCompileInputs.cache
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.MvcApplicationPartsAssemblyInfo.cache
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\staticwebassets.build.json
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\staticwebassets.development.json
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\scopedcss\bundle\LH PETS.styles.css
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.dll
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\refint\LH PETS.dll
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.pdb
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.genruntimeconfig.cache
+F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\ref\LH PETS.dll
+F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.staticwebassets.runtime.json
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.csproj.AssemblyReference.cache
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.AssemblyInfoInputs.cache
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.AssemblyInfo.cs
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.csproj.CoreCompileInputs.cache
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.MvcApplicationPartsAssemblyInfo.cache
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.dll
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\ref\LH PETS.dll
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.pdb
