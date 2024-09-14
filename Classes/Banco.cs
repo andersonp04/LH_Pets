@@ -9,9 +9,9 @@ namespace LH_PETS.Classes
 {
     public class Banco
     {
-        private List<cliente> Lista = new List<cliente>();
+        private List<Cliente> Lista = new List<Cliente>();
 
-        public List<cliente> GetLista() {
+        public List<Cliente> GetLista() {
             return Lista;
         }
 
@@ -32,7 +32,7 @@ namespace LH_PETS.Classes
                                 "<th>Total</th>" +
                                 "</thead><tbody>";
         
-        foreach (cliente cli in GetLista()) {
+        foreach (Cliente cli in GetLista()) {
             enviar += "<tr>" +
                             $"<td>{cli.cpf_cnpj}</td>" +
                             $"<td>{cli.nome}</td>" +
@@ -65,12 +65,12 @@ namespace LH_PETS.Classes
 
                     using (SqlCommand cmd = new SqlCommand(sql, conn)) {
                         conn.Open();
-                    }
+                    
 
-                    using (SqlDataReader tabela = Cmd.ExecuteReader()) {
+                    using (SqlDataReader tabela = cmd.ExecuteReader()) {
 
                         while (tabela.Read()) {
-                            Lista.Add(new cliente() {
+                            Lista.Add(new Cliente() {
                                 cpf_cnpj = tabela["cpf_cnpj"].ToString(),
                                 nome = tabela["nome"].ToString(),
                                 endereco = tabela["endereco"].ToString(),
@@ -85,7 +85,7 @@ namespace LH_PETS.Classes
                             
                         }
                     }
-                    
+                }
                 
             } catch (Exception ex) {
                 Console.WriteLine(ex.ToString());
