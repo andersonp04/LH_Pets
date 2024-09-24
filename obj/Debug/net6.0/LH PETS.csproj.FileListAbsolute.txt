@@ -20,3 +20,32 @@ F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.pdb
 F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.genruntimeconfig.cache
 F:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\ref\LH PETS.dll
 F:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.staticwebassets.runtime.json
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\appsettings.Development.json
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\appsettings.json
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.staticwebassets.runtime.json
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.exe
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.deps.json
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.runtimeconfig.json
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.dll
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\ref\LH PETS.dll
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\LH PETS.pdb
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Back_end\atividade 02\LH PETS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.csproj.AssemblyReference.cache
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.AssemblyInfoInputs.cache
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.AssemblyInfo.cs
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.csproj.CoreCompileInputs.cache
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.MvcApplicationPartsAssemblyInfo.cache
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\staticwebassets.build.json
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\staticwebassets.development.json
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\scopedcss\bundle\LH PETS.styles.css
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.csproj.CopyComplete
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.dll
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\ref\LH PETS.dll
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.pdb
+E:\Back_end\atividade 02\LH PETS\obj\Debug\net6.0\LH PETS.genruntimeconfig.cache

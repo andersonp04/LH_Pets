@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4dzadrOGC1xZ2+qRC9WL7odPSSg4fR2ZLGW2cMs7R44=",
+  "Hash": "9uACYU/C92ua6dE5mUE67hZfrKqQUqL3+hsRC6YkUc8=",
   "Source": "LH PETS",
   "BasePath": "_content/LH PETS",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "LH PETS\\wwwroot",
       "Source": "LH PETS",
-      "ContentRoot": "F:\\Back_end\\atividade 02\\LH PETS\\wwwroot\\",
+      "ContentRoot": "E:\\Back_end\\atividade 02\\LH PETS\\wwwroot\\",
       "BasePath": "_content/LH PETS",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "F:\\Back_end\\atividade 02\\LH PETS\\wwwroot\\index.html",
+      "Identity": "E:\\Back_end\\atividade 02\\LH PETS\\wwwroot\\index.html",
       "SourceId": "LH PETS",
       "SourceType": "Discovered",
-      "ContentRoot": "F:\\Back_end\\atividade 02\\LH PETS\\wwwroot\\",
+      "ContentRoot": "E:\\Back_end\\atividade 02\\LH PETS\\wwwroot\\",
       "BasePath": "_content/LH PETS",
       "RelativePath": "index.html",
       "AssetKind": "All",

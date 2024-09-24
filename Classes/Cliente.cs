@@ -1,4 +1,5 @@
 
+
 namespace LH_PETS.Classes
 {
     public class Cliente
@@ -11,5 +12,11 @@ namespace LH_PETS.Classes
         public float? valor {get; set;}
         public float? valor_imposto {get; set;}
         public float? total {get; set;}
+
+        internal object Valor(string v)
+        
+        {
+            throw new NotImplementedException();
+        }
     }
 }
