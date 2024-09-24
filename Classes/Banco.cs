@@ -39,9 +39,9 @@ namespace LH_PETS.Classes
                             $"<td>{cli.endereco}</td>" +
                             $"<td>{cli.rg_ie}</td>" +
                             $"<td>{cli.tipo}</td>" +
-                            $"<td>{cli.valor.ToString("C")}</td>" +
-                            $"<td>{cli.valor_imposto.ToString("C")}</td>" +
-                            $"<td>{cli.total.ToString("C")}</td>" +
+                            $"<td>{cli.valor.Todecimal("C")}</td>" +
+                            $"<td>{cli.valor_imposto.ToDecimal("C")}</td>" +
+                            $"<td>{cli.total.ToDecimal("C")}</td>" +
                         "</tr>";
 
             }
